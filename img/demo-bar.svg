@@ -1,0 +1,31 @@
+<svg width="652" height="50" viewBox="0 0 652 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Body" d="M26 0H626C660 0 660 50 626 50C588 50 26 50 26 50C-8 50 -8.00001 0 26 0Z" fill="#FFBB87"/>
+<line id="Bar" x1="56" y1="24.5" x2="596" y2="24.5" stroke="white" stroke-opacity="0.35"/>
+<line id="Activation" x1="56" y1="24.5" x2="186" y2="24.5" stroke="white"/>
+<circle id="Slider" cx="185.5" cy="24.5" r="4.5" fill="white"/>
+<g id="Sun Icon">
+<ellipse id="Sun" cx="622.5" cy="24.5" rx="11.8243" ry="11.8243" fill="white"/>
+<line id="Top Left Ray" x1="612.214" y1="13.9752" x2="609.538" y2="11.2996" stroke="white"/>
+<line id="Left Ray" x1="605" y1="24.473" x2="608.784" y2="24.473" stroke="white"/>
+<line id="Bot Left Ray" x1="611.975" y1="34.786" x2="609.3" y2="37.4615" stroke="white"/>
+<line id="Bot Ray" x1="622.473" y1="42" x2="622.473" y2="38.2162" stroke="white"/>
+<line id="Bot Right Ray" x1="632.786" y1="35.0248" x2="635.462" y2="37.7004" stroke="white"/>
+<line id="Right Ray" x1="636.216" y1="24.473" x2="640" y2="24.473" stroke="white"/>
+<line id="Top Right Ray" x1="633.025" y1="14.214" x2="635.7" y2="11.5385" stroke="white"/>
+<line id="Top Ray" x1="622.473" y1="10.7838" x2="622.473" y2="7" stroke="white"/>
+</g>
+<g id="Dark Cloud">
+<circle id="Ellipse 1" cx="34.7586" cy="22.2759" r="2.75862" fill="#EEEEEE"/>
+<circle id="Ellipse 3" cx="44.8892" cy="21.8399" r="3.11086" fill="#EEEEEE"/>
+<circle id="Ellipse 4" cx="43.3337" cy="17.8886" r="3.88858" fill="#EEEEEE"/>
+<circle id="Ellipse 2" cx="37.5172" cy="19.5172" r="3.94089" fill="#EEEEEE"/>
+<rect id="Rectangle 2" x="34.0011" y="18.7291" width="10.888" height="6.22173" fill="#EEEEEE"/>
+</g>
+<g id="Light Cloud">
+<circle id="Ellipse 1_2" cx="20.9336" cy="25.8805" r="4.93363" fill="white"/>
+<circle id="Ellipse 3_2" cx="34.3531" cy="26.8673" r="3.9469" fill="white"/>
+<circle id="Ellipse 4_2" cx="32.3796" cy="21.9336" r="4.93363" fill="white"/>
+<circle id="Ellipse 2_2" cx="26.4593" cy="22.9204" r="5.92036" fill="white"/>
+<rect id="Rectangle 2_2" x="20.5389" y="22.9204" width="13.8142" height="7.89381" fill="white"/>
+</g>
+</svg>
